@@ -1,0 +1,5 @@
+﻿  SORTOWANIE.cpp
+f:\consoleapplication22\consoleapplication22\sortowanie.cpp(16): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+f:\consoleapplication22\consoleapplication22\sortowanie.cpp(96): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+f:\consoleapplication22\consoleapplication22\sortowanie.cpp(98): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ConsoleApplication22.vcxproj -> F:\ConsoleApplication22\Debug\ConsoleApplication22.exe
